@@ -2,17 +2,9 @@
 
 # Abbreviations
 
-AAL - Active and Assistive living
+**AAL** - Active and Assistive living
 
-ADL - Activities of daily living
-
-ADL/IADL - ADL and IADL combined, ability to function at home
-
-FD - automatic Fall Detecting and alerting system
-
-IADL - Instrumental activities of daily living
-
-VAAL - Video based solutions for Active and Assistive living
+**ADL** - Activities of daily living
 
 - - -
 
@@ -23,7 +15,6 @@ VAAL - Video based solutions for Active and Assistive living
 * This is a list
 	* List
 	* List
-
 * List
 	* List
 
@@ -35,15 +26,15 @@ VAAL - Video based solutions for Active and Assistive living
 
 [This is a link to Google](http://google.fi)
 
-This is also a link to Google <http://google.fi> 
+Here is also a link to Google <http://google.fi> 
 
-This is a footnote example[^1]
+This is a footnote example that does not work on github but works when you convert your file[^1]
 
 This is just text. Lorem sit amet, consectetur adipiscing elit. Nam id felis nibh. Ut nunc velit, dapibus vitae ultricies ac, facilisis in enim. Nulla pellentesque risus sem, non convallis turpis vehicula nec. Pellentesque nec lacus imperdiet, commodo nibh quis, pharetra leo. Suspendisse et magna sed dolor interdum volutpat.
 
 [^1]: This is a footnote
 
-## Footnotes
+## More text
 
 In vitae consectetur adipiscing elit. Nam id felis nibh. Ut nunc velit, dapibus vitae ultricies ac, facilisis in enim. Nulla pellentesque risus sem, non convallis turpis vehicula nec. Pellentesque nec lacus imperdiet, commodo nibh quis, pharetra leo. Suspendisse et magna sed dolor interdum volutpat. Nunc id dolor id nibh pretium lacinia. Nullam congue arcu sed pharetra convallis. Morbi eu ante ante.
 
