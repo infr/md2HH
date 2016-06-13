@@ -20,4 +20,4 @@ If you are writing your work in markdown and need to get the document into the o
 pandoc thesis.md -f markdown -t docx --reference-docx=pohja.docx --toc -o thesis.docx
 ~~~~
 
-See basic markdown functionality from the <thesis_example.md>
+See basic markdown functionality from the [thesis_example.md](thesis_example.md)
